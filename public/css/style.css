@@ -1,0 +1,9 @@
+.container {
+    margin-top: 50px;
+}
+.table td, .table th {
+    vertical-align: middle;
+}
+.btn-add {
+    margin-left: 10px;
+}
